@@ -17,10 +17,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.fluent.pet
   publish: true
-  baseUrl: /fluentpet_uptime
-  apiBaseUrl: https://api.github.com
   name: ""
   logoUrl: https://cdn.shopify.com/s/files/1/0397/2903/7469/files/FluentPet-Wordmark-2022_600x.png
   navbar:
