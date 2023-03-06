@@ -24,8 +24,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Store
-      href: $UPTIME_FP_STORE_URL
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
