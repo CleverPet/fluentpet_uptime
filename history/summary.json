@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 1433,
-    "timeWeek": 840,
-    "timeMonth": 840,
-    "timeYear": 840,
+    "time": 806,
+    "timeDay": 368,
+    "timeWeek": 806,
+    "timeMonth": 806,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1446,
-    "timeDay": 1521,
-    "timeWeek": 1446,
-    "timeMonth": 1446,
-    "timeYear": 1446,
+    "time": 1429,
+    "timeDay": 1215,
+    "timeWeek": 1429,
+    "timeMonth": 1429,
+    "timeYear": 1429,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-api",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
-    "time": 444,
-    "timeDay": 291,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
-    "dailyMinutesDown": {
-      "2023-03-03": 45,
-      "2023-03-02": 24
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 443,
+    "timeDay": 437,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {}
   }
 ]
