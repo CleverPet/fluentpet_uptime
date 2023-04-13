@@ -4,19 +4,19 @@
     "url": "$UPTIME_FP_STORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 1816,
-    "timeWeek": 1228,
-    "timeMonth": 991,
-    "timeYear": 911,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 947,
+    "timeDay": 2070,
+    "timeWeek": 1388,
+    "timeMonth": 1045,
+    "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-04-13": 1
+      "2023-04-13": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-support",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.92%",
     "time": 1635,
     "timeDay": 2586,
     "timeWeek": 1857,
     "timeMonth": 1672,
     "timeYear": 1635,
     "dailyMinutesDown": {
-      "2023-04-13": 0,
+      "2023-04-13": 9,
       "2023-03-20": 20,
       "2023-03-14": 21
     }
@@ -46,9 +46,9 @@
     "url": "$UPTIME_FP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +57,8 @@
     "timeWeek": 431,
     "timeMonth": 453,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-13": 0
+    }
   }
 ]
