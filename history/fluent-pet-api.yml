@@ -1,7 +1,7 @@
 url: $UPTIME_FP_API_URL
 status: up
 code: 404
-responseTime: 391
-lastUpdated: 2023-08-18T23:00:56.000Z
-startTime: Thu Mar 02 2023 13:22:01 GMT+0000 (Coordinated Universal Time)
+responseTime: 630
+lastUpdated: 2023-08-19T23:00:54.391Z
+startTime: 2023-03-02T13:22:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
