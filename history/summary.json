@@ -44,19 +44,20 @@
     "url": "$UPTIME_FP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
-    "time": 651,
-    "timeDay": 465,
-    "timeWeek": 1005,
-    "timeMonth": 1008,
-    "timeYear": 651,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.97%",
+    "time": 650,
+    "timeDay": 454,
+    "timeWeek": 947,
+    "timeMonth": 991,
+    "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-09-18": 69
+      "2023-09-19": 2,
+      "2023-09-18": 74
     }
   }
 ]
