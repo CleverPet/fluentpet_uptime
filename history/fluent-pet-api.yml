@@ -1,7 +1,7 @@
 url: $UPTIME_FP_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-21T04:23:59.656Z
+status: up
+code: 404
+responseTime: 460
+lastUpdated: 2023-09-21T04:30:18.605Z
 startTime: 2023-03-02T13:22:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
