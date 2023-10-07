@@ -1,7 +1,7 @@
 url: $UPTIME_FP_SUPPORT_URL
-status: down
-code: 504
-responseTime: 23479
-lastUpdated: 2023-10-07T07:47:25.443Z
+status: up
+code: 200
+responseTime: 1816
+lastUpdated: 2023-10-07T08:00:45.817Z
 startTime: 2023-03-02T13:21:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
