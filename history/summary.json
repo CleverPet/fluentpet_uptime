@@ -6,27 +6,25 @@
     "slug": "fluent-pet-store",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 472,
     "timeWeek": 1190,
     "timeMonth": 880,
     "timeYear": 728,
-    "dailyMinutesDown": {
-      "2023-10-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FluentPet Support",
     "url": "$UPTIME_FP_SUPPORT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.95%",
@@ -36,6 +34,7 @@
     "timeMonth": 3091,
     "timeYear": 1789,
     "dailyMinutesDown": {
+      "2023-10-21": 0,
       "2023-10-20": 85,
       "2023-10-12": 17,
       "2023-04-13": 17,
