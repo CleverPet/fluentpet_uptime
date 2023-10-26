@@ -4,19 +4,19 @@
     "url": "$UPTIME_FP_STORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-store",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 535,
-    "timeWeek": 512,
-    "timeMonth": 767,
-    "timeYear": 725,
+    "time": 724,
+    "timeDay": 544,
+    "timeWeek": 517,
+    "timeMonth": 760,
+    "timeYear": 724,
     "dailyMinutesDown": {
-      "2023-10-26": 0
+      "2023-10-26": 10
     }
   },
   {
