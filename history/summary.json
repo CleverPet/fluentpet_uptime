@@ -47,9 +47,9 @@
     "url": "$UPTIME_FP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -59,6 +59,7 @@
     "timeMonth": 508,
     "timeYear": 650,
     "dailyMinutesDown": {
+      "2023-10-29": 0,
       "2023-09-18": 69
     }
   }
