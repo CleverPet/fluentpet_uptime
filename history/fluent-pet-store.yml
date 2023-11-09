@@ -1,7 +1,7 @@
 url: $UPTIME_FP_STORE_URL
-status: down
-code: 503
-responseTime: 248
-lastUpdated: 2023-11-09T02:49:34.844Z
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2023-11-09T02:56:48.090Z
 startTime: 2023-03-02T13:21:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
