@@ -7,12 +7,10 @@ sites:
     url: $UPTIME_FP_STORE_URL
   - name: FluentPet Support
     url: $UPTIME_FP_SUPPORT_URL
+  - name: FluentPet Community
+    url: $UPTIME_FP_COMMUNITY_URL
   - name: FluentPet API
     url: $UPTIME_FP_API_URL
-    expectedStatusCodes:
-      - 404
-      - 200
-      - 201
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
