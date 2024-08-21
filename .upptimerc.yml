@@ -9,6 +9,7 @@ sites:
     url: $UPTIME_FP_SUPPORT_URL
   - name: FluentPet Community
     url: $UPTIME_FP_COMMUNITY_URL
+    maxRedirects: 0
   - name: FluentPet API
     url: $UPTIME_FP_API_URL
 
