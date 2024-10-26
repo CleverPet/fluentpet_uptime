@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 655,
-    "timeDay": 590,
-    "timeWeek": 608,
-    "timeMonth": 956,
+    "timeDay": 337,
+    "timeWeek": 538,
+    "timeMonth": 942,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2023-11-13": 39
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1596,
-    "timeDay": 816,
-    "timeWeek": 1000,
-    "timeMonth": 1127,
-    "timeYear": 1432,
+    "time": 1598,
+    "timeDay": 1605,
+    "timeWeek": 1140,
+    "timeMonth": 1153,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2024-06-27": 22,
       "2024-05-29": 27
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 405,
-    "timeDay": 115,
-    "timeWeek": 410,
+    "time": 402,
+    "timeDay": 184,
+    "timeWeek": 396,
     "timeMonth": 370,
-    "timeYear": 405,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2024-08-21": 28
     }
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fluent-pet-api",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 566,
-    "timeDay": 315,
-    "timeWeek": 402,
-    "timeMonth": 418,
+    "timeDay": 502,
+    "timeWeek": 399,
+    "timeMonth": 415,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2023-12-14": 408
